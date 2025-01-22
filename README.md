@@ -21,8 +21,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kevencb/Landigpage-Huddle)
-- Live Site URL: [Add live site URL here](https://kevencb.github.io/Landigpage-Huddle/)
+- Solution URL: [Github](https://github.com/kevencb/Landigpage-Huddle)
+- Live Site URL: [Development](https://kevencb.github.io/Landigpage-Huddle/)
 
 ## My process
 

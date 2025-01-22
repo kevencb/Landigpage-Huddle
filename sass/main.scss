@@ -98,6 +98,7 @@ main{
             box-shadow: 1px 3px 5px rgb(0,0,0,.5);
             font-family: var(--title);
             color: var(--violet);
+            font-size: 12px;
             cursor: pointer;
             @media (min-width: 1260px){
                 padding: 13px 64px 16px;

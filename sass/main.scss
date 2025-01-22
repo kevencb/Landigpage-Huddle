@@ -139,12 +139,15 @@ main{
 
 footer{
     width: 100%;
-    display: flex;
-    justify-content: center;
-    position: fixed;
-    bottom: 16px;
-    margin: auto;
-    font-size: .8rem;
+    margin: 0 auto 16px;
+    font-size: .7rem;
+    text-align: center;
+    @media (min-width: 1260px){
+        display: flex;
+        justify-content: center;
+        position: fixed;
+        bottom: 16px;
+    }
     .attribution a{
        color: var(--white);
     }
